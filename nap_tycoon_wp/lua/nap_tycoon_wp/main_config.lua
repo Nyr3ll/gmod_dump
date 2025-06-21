@@ -15,7 +15,7 @@
 -- !nap_setprestige <steamid64> <value>
 -- !nap_addprestige <steamid64> <value>
 
--- Consol command :
+-- Console command :
 -- 
 -- "nap_tycoon_wp_db_reset_database" reset the database. Server need a restart after this command.
 -- "nap_tycoon_wp_print_database " print the database in the console.
