@@ -1,0 +1,26 @@
+NAP_MANUF.Colors = NAP_MANUF.Colors or {
+
+    Black = Color(0, 0, 0, 255),
+    Gray_Dark = Color(46, 46, 46, 255),
+    Gray_Medium = Color(112, 112, 112, 255),
+    Gray_Light = Color(163, 163, 163, 255),
+    White = Color(255, 255, 255, 255),
+    Red = Color(255, 0, 0, 255),
+    Red_Dark = Color(84, 0, 0, 255),
+    Orange = Color(255, 72, 0, 255),
+    Brown = Color(128, 72, 23,255),
+    Yellow = Color(255, 174, 0, 255),
+    Lime = Color(170, 255, 0, 255),
+    Green = Color(13, 255, 0, 255),
+    Mint = Color(0, 255, 81, 255),
+    Cyan = Color(0, 255, 179),
+    Blue = Color(0, 187, 255, 255),
+    Blue_Light = Color(0, 255, 255, 255),
+    Blue_Medium = Color(0, 116, 158, 255),
+    Blue_Dark = Color(0, 20, 117, 255),
+    Purple = Color(144, 0, 255, 255),
+    Pink = Color(204, 0, 255, 255),
+    Magenta = Color(255, 0, 81, 255),
+    Discord = Color(88, 101, 242),
+
+}

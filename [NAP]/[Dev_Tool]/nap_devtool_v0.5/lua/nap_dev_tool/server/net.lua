@@ -1,0 +1,5 @@
+util.AddNetworkString("NAP_DEVTOOL_WailaCommand")
+util.AddNetworkString("NAP_DEVTOOL_NotAcces")
+util.AddNetworkString("NAP_DEVTOOL_WrongPermission")
+util.AddNetworkString("NAP_DEVTOOL_TeleportAt")
+util.AddNetworkString("NAP_DEVTOOL_TeleportAt_ServerAnswer")
